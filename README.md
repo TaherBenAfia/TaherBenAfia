@@ -10,7 +10,7 @@ Interested in **Machine Learning and Data**, with a focus on:
 - NLP, language models, fine-tuning, and retrieval systems.
 - Building data pipelines and integrating ML models into applications.
 
-**Experience across:** Clinical NLP · Data Analytics · Environmental Prediction · Data Engineering
+**Experience across:**  NLP · Data Analytics · Environmental Prediction · Data Engineering
 
 ---
 
