@@ -1,16 +1,27 @@
-## Hi there 👋
+# Taher Ben Afia
 
-<!--
-**TaherBenAfia/TaherBenAfia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science Engineering student at **École Nationale d'Ingénieurs de Sousse (ENISo)**, Tunisia.
 
-Here are some ideas to get you started:
+Interested in **Machine Learning and Data**, with a focus on:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Understanding learning algorithms and their statistical foundations.
+- Exploring deep learning and neural network architectures.
+- Data analysis, feature engineering, and predictive modeling.
+- NLP, language models, fine-tuning, and retrieval systems.
+- Building data pipelines and integrating ML models into applications.
+
+**Experience across:** Clinical NLP · Data Analytics · Environmental Prediction · Data Engineering
+
+---
+
+Always curious to learn, experiment, and build.
+
+---
+
+### Contact
+
+- **Email:** [taherbenafia@gmail.com](mailto:taherbenafia@gmail.com)
+- **LinkedIn:** [taher-ben-afia](https://www.linkedin.com/in/taher-ben-afia-147b91294/)
+- **GitHub:** [TaherBenAfia](https://github.com/TaherBenAfia)
+- **Zindi:** [TaaR](https://zindi.africa/users/TaaR/competitions/portfolio)
+- **Phone:** +216 27 955 809
